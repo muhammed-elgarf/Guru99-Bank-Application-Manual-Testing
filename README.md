@@ -69,7 +69,7 @@ The project covers all major Manual Testing activities performed in a real-world
 
 ---
 
-# 🛠 Tools & Technologies
+# 🛠️ Tools & Technologies
 
 - Atlassian Jira Cloud
 - Agile Kanban
@@ -114,7 +114,7 @@ These screenshots present an overview of the testing metrics and defect tracking
 
 ---
 
-# 📑 Sample Manual Test Cases
+## 📑 Sample Manual Test Cases
 
 The following screenshots showcase **a selection of the Manual Test Cases** designed and executed during this project.
 
@@ -176,6 +176,28 @@ It also strengthened my skills in:
 
 ---
 
+# 🎥 Project Demo & Documentation
+
+The complete project documentation, reports, and supporting files are available on Google Drive.
+
+### 📂 Google Drive Folder
+
+🔗 **View the Complete Project Here:**
+
+https://drive.google.com/drive/folders/1gTb1yOgn_u8BbulUAUVT7Ax2sYDectI4?usp=drive_link
+
+The Google Drive folder includes:
+
+- 📄 System Test Plan
+- 📑 Manual Test Cases
+- 🐞 Bug Tracking Report
+- 📊 Change Request Analysis
+- 📋 Test Closure Report
+- 📷 Additional Project Screenshots
+- 🎥 Project Demo
+
+---
+
 # 👨‍💻 Author
 
 ## Muhammed Elgarf
@@ -184,10 +206,10 @@ It also strengthened my skills in:
 
 ### 📬 Connect with Me
 
-💼 LinkedIn
+💼 **LinkedIn**
 
 https://www.linkedin.com/in/muhammed-el-garf-798bb432a/
 
 ---
 
-⭐ If you found this project useful, feel free to give it a **Star**.
+⭐ **If you found this project useful, please consider giving it a Star ⭐.**
